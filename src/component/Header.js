@@ -38,8 +38,8 @@ const Header = () => {
           <nav className="gap-4 md:gap-6 text-base md:text-lg hidden md:flex">
             <Link to={""}>Home</Link>
             <Link to={"menu/65a7a581026aa61e6652daa3"}>Menu</Link>
-            <Link to={"about"}>About</Link>
-            <Link to={"contact"}>Contact</Link>
+            <Link to={"about"}> About</Link>
+            <Link to={"contact"}> Contact</Link>
           </nav>
           <div className="text-2xl text-slate-600 relative">
             <Link to={"cart"}>
